@@ -109,6 +109,7 @@
   color: #888;
 }
 
+.add-element__name:focus,
 .task__input:focus {
   color: #333;
 }
