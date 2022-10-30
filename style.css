@@ -25,7 +25,7 @@
   .header { 
     text-align: center;
   }
-  
+
 }
 
 .main {
@@ -45,16 +45,16 @@
 }
 
 #incomplete, #completed {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .todo-task, .title {
-  list-style:none;
+  list-style: none;
 }
 
 .task, .edit, .delete, .add-btn {
-  outline:none;
+  outline: none;
 }
 
 .edit, .delete, .add-btn {
@@ -156,14 +156,14 @@
 
 /* Edit Task */
 .todo-task .input-task {
-  display:none
+  display: none
 }
 
 .edit-mode .input-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .label-task {
-  display:none;
+  display: none;
 }
