@@ -44,8 +44,8 @@
   display: flex;
 }
 
-#incomplete,
-#completed {
+#incomplete-list,
+#completed-list {
   margin: 0;
   padding: 0px;
 }
@@ -158,7 +158,7 @@
 }
 
 /* Completed */
-#completed .label-task {
+#completed-list .label-task {
   color: #888;
   text-decoration: line-through;
 }
